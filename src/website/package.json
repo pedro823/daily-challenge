@@ -2,7 +2,7 @@
   "private": true,
   "name": "website",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "scripts": {
     "build": "preact build",
     "serve": "sirv build --cors --single",
